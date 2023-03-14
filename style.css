@@ -10,6 +10,7 @@
   background: black;
   font-size: 250%;
   text-align: center;
+  z-index: 1;
 }
 #head a {
 text-decoration: none; 
