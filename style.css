@@ -1,0 +1,101 @@
+#body {
+  margin: 0px;
+  padding: 0px;
+}
+#head {
+  position: fixed;
+  top: 0px;
+  width: 98.6%;
+  height: 50px;
+  background: black;
+  font-size: 250%;
+  text-align: center;
+}
+#head a {
+text-decoration: none; 
+color: white;
+margin: 0px 5%;
+}
+#anakin img {
+ max-width: 100%;
+}
+#anakin h3 {
+  margin: -13.5% 21%;
+  font-size: 280%;
+  color: #222;
+}
+#anakin h1 {
+  margin: 12% 20% 7%;
+  font-size: 480%;
+  color: #222;
+}
+.texto {
+  margin: 0px 22% 3%;
+}
+#anakin p {
+  font-size: 130%;
+}
+#anakin ul li {
+  margin: 1% 23%;
+  list-style-type: square;
+  font-size: 125%
+}
+.together {
+  max-width: 75%;
+  height: 160px;
+  background: #222;
+  margin: 4% 12.5%;
+  color: white;
+}
+.quote {
+  font-size: 700%;
+  position: relative;
+  left: 0%;
+  top: -13%;
+  margin: 0px;
+  padding: 0px;
+}
+.bottom {
+  position: relative;
+  top: -90%;
+  text-align: center;
+  font-size: 380%;
+}
+.text {
+  margin: 0px 22% 3%;
+  font-size: 110%;
+}
+h2, h4 {
+  margin: 0px 22% 3%;
+}
+h2 {
+  font-size: 230%;
+}
+h4 {
+  font-size: 150%;
+}
+h5 {
+  margin: -3.5% 22% 0px; 
+  font-size: 120%;
+  font-style: italic;
+}
+ul li {
+  margin: 1% 23% 0px;
+  list-style-type: square;
+  font-size: 105%
+}
+ul {
+  margin: 2.5% 0px 4%;
+}
+.bottom2 {
+  position: relative;
+  top: -110%;
+  text-align: center;
+  font-size: 380%;
+}
+.line {
+    max-width: 75%;
+  height: 5px;
+  background: #222;
+  margin: 4% 12.5%;
+}
